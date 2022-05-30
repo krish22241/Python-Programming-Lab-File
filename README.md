@@ -1,2 +1,0 @@
-# krish
-first repo
